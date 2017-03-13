@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Computador
+comment1.params=mod\ cap\ qua\ tam
+comment1.target=Computador(java.lang.String,\ double,\ int,\ int)
+comment2.params=mod
+comment2.target=void\ setModeloProcessador(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getModeloProcessador()
+comment4.params=cap
+comment4.target=void\ setCapacidadeProcessador(double)
+comment5.params=
+comment5.target=double\ getCapacidadeProcessador()
+comment6.params=qua
+comment6.target=void\ setQuantidadeMemoriaRAM(int)
+comment7.params=
+comment7.target=int\ getQuantidadeMemoriaRAM()
+comment8.params=tam
+comment8.target=void\ setTamanhoHD(int)
+comment9.params=
+comment9.target=int\ getTamanhoHD()
+numComments=10
