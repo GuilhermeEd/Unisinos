@@ -1,16 +1,18 @@
 public class Computador
 {
-    String modeloProcessador;
-    double capacidadeProcessador;
-    int quantidadeMemoriaRAM;
-    int tamanhoHD;
+    private String modeloProcessador;
+    private double capacidadeProcessador;
+    private int quantidadeMemoriaRAM;
+    private int tamanhoHD;
+    private Monitor monitorComputador;
     
-    public Computador(String mod, double cap, int qua, int tam)
+    public Computador(String mod, double cap, int qua, int tam, Monitor monitor)
     {
-        modeloProcessador = mod;
-        capacidadeProcessador = cap;
-        quantidadeMemoriaRAM = qua;
-        tamanhoHD = tam;        
+        this.modeloProcessador = mod;
+        this.capacidadeProcessador = cap;
+        this.quantidadeMemoriaRAM = qua;
+        this.tamanhoHD = tam;    
+        this.monitorComputador = monitor;
     }
 
    //método de configuração de valor para o atributo: modeloProcessador
@@ -51,5 +53,15 @@ public class Computador
     //método de acesso ao valor do atributo: tamanhoHD
     public int getTamanhoHD(){
         return tamanhoHD;
+    }
+    
+        //método de configuração de valor para o atributo: monitorComputador
+    public void SetMonitorComputador(Monitor monitor){
+        monitorComputador = monitor;
+    }
+    
+    //método de acesso ao valor do atributo: monitorComputador
+    public Monitor getMonitorComputador(){
+        return monitorComputador;
     }
 }

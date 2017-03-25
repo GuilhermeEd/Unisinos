@@ -1,7 +1,11 @@
 #BlueJ class context
 comment0.target=Computador
-comment1.params=mod\ cap\ qua\ tam
-comment1.target=Computador(java.lang.String,\ double,\ int,\ int)
+comment1.params=mod\ cap\ qua\ tam\ monitor
+comment1.target=Computador(java.lang.String,\ double,\ int,\ int,\ Monitor)
+comment10.params=monitor
+comment10.target=void\ SetMonitorComputador(Monitor)
+comment11.params=
+comment11.target=Monitor\ getMonitorComputador()
 comment2.params=mod
 comment2.target=void\ setModeloProcessador(java.lang.String)
 comment3.params=
@@ -18,4 +22,4 @@ comment8.params=tam
 comment8.target=void\ setTamanhoHD(int)
 comment9.params=
 comment9.target=int\ getTamanhoHD()
-numComments=10
+numComments=12
