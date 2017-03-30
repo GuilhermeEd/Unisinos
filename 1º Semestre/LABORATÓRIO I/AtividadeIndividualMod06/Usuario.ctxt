@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=mail\ sen\ no\ cel
+comment0.target=Usuario(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getEmail()
+comment2.params=
+comment2.target=java.lang.String\ getSenha()
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=novaSenha
+comment4.target=void\ setSenha(java.lang.String)
+comment5.params=
+comment5.target=void\ adicionaNovoInteresse()
+comment6.params=
+comment6.target=void\ exibeDados()
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=tit\ desc\ tp\ usr
+comment0.target=Interesse(java.lang.String,\ java.lang.String,\ char,\ Usuario)
+comment1.params=
+comment1.target=java.lang.String\ getTitulo()
+comment2.params=
+comment2.target=java.lang.String\ getDescricao()
+comment3.params=
+comment3.target=char\ getTipo()
+comment4.params=
+comment4.target=Usuario\ getUsuario()
+comment5.params=novoTitulo
+comment5.target=void\ setTitulo(java.lang.String)
+comment6.params=novaDescricao
+comment6.target=void\ setDescricao(java.lang.String)
+comment7.params=novoTipo
+comment7.target=void\ setTipo(char)
+comment8.params=novoUsuario
+comment8.target=void\ setUsuario(Usuario)
+comment9.params=
+comment9.target=void\ exibeDados()
+numComments=10
