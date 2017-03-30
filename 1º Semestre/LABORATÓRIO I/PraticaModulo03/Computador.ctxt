@@ -2,4 +2,8 @@
 comment0.params=mod\ cap\ qua\ tam
 comment0.target=Computador(java.lang.String,\ double,\ int,\ int)
 comment0.text=\ construtor\ da\ classe\ Computador\ que\ recebe\ como\ par\u00E2metros\ (dentro\ das\ chaves)\:\r\n\ mod\ \=\ par\u00E2metro\ do\ tipo\ String\ que\ ir\u00E1\ receber\ o\ valor\ para\ o\ atributo\:\ modeloProcessador\r\n\ cap\ \=\ par\u00E2metro\ do\ tipo\ double\ que\ ir\u00E1\ receber\ o\ valor\ para\ o\ atributo\:\ capacidadeProcessador\r\n\ qua\ \=\ par\u00E2metro\ do\ tipo\ int\ que\ ir\u00E1\ receber\ o\ valor\ para\ o\ atributo\:\ quantidadeMemoriaRAM\r\n\ tam\ \=\ par\u00E2metro\ do\ tipo\ int\ que\ ir\u00E1\ receber\ o\ valor\ para\ o\ atributo\:\ tamanhoHD\r\n
-numComments=1
+comment1.params=
+comment1.target=double\ getCapacidadeProcessador()
+comment2.params=cap
+comment2.target=void\ setCapacidadeProcessador(double)
+numComments=3

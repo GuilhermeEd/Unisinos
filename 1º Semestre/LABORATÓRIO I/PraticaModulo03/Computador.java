@@ -27,5 +27,11 @@ public class Computador
         tamanhoHD = tam;
     }
     
+    public double getCapacidadeProcessador(){
+        return capacidadeProcessador;
+    }
     
+    public void setCapacidadeProcessador(double cap){
+        capacidadeProcessador = cap;
+    }
 } // o símbolo "}" simboliza o fim do corpo da classe
