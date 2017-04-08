@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=t
+comment0.target=Livro(java.lang.String)
+comment0.text=\r\n\ Construtor\ da\ classe\ Livro\r\n\ Recebe\ uma\ String\ como\ parametro\r\n\ Funcao\:\ Criar\ o\ objeto\ Livro\ e\ receber\ o\ titulo\ do\ livro\r\n
+comment1.params=
+comment1.target=java.lang.String\ getTitulo()
+comment1.text=\r\n\ Metodo\ getTitulo\r\n\ Nao\ recebe\ parametros\r\n\ Retornara\ uma\ String\r\n\ Funcao\:\ retornar\ o\ titulo\ do\ objeto\ criado;\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSituacao()
+comment2.text=\r\n\ Metodo\ getSituacao\r\n\ Nao\ recebe\ parametros\r\n\ Retornara\ uma\ String\r\n\ Funcao\:\ retornar\ a\ situacao\ do\ livro\ em\ forma\ de\ String\r\n
+comment3.params=
+comment3.target=boolean\ isEmprestado()
+comment3.text=\r\n\ Metodo\ isEmprestado\r\n\ Nao\ recebe\ parametros\r\n\ Retornara\ um\ boolean\r\n\ Funcao\:\ retorna\ o\ valor\ do\ atributo\ emprestado,\r\n\ deve\ retornar\ true\ para\ livro\ emprestado\ e\ false\ para\ disponivel\r\n
+comment4.params=
+comment4.target=void\ empresta()
+comment4.text=\r\n\ Metodo\ empresta\r\n\ Nao\ recebe\ parametros\r\n\ Nao\ tem\ retorno,\ portanto\ e\ do\ tipo\ "void"\r\n\ Funcao\:\ ao\ ser\ chamado,\ este\ metodo\ ira\ "emprestar\ o\ livro"ou\ seja,\ atribuir\ o\ valor\ \=true\r\n\ para\ o\ atributo\ \=\ emprestado\ (somente\ se\ o\ livro\ esta\ disponivel)\r\n
+comment5.params=
+comment5.target=void\ devolve()
+comment5.text=\r\n\ Metodo\ devolve\r\n\ Nao\ recebe\ parametros\r\n\ Nao\ tem\ retorno,\ portanto\ e\ do\ tipo\ "void"\r\n\ Funcao\:\ ao\ ser\ chamado,\ este\ metodo\ ira\ "devolver\ o\ livro"ou\ seja,\ atribuir\ o\ valor\ \=false\r\n\ para\ o\ atributo\ \=\ emprestado\r\n
+comment6.params=
+comment6.target=void\ exibeDados()
+comment6.text=\r\n\ Metodo\ exibeDados\r\n\ Nao\ recebe\ parametros\r\n\ Nao\ tem\ retorno,\ portanto\ e\ do\ tipo\ "void"\r\n\ Funcao\:\ ao\ ser\ chamado,\ este\ metodo\ apresentar\ os\ valores\ de\ todos\ os\ atributos\ do\ objeto\r\n
+numComments=7

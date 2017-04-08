@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nlados
+comment0.target=Dado(int)
+comment0.text=onstructor\ de\ objetos\ da\ classe\ Dado
+comment1.params=
+comment1.target=int\ jogaDado()
+numComments=2
