@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=num\ st
+comment0.target=Bike(int,\ char)
+comment0.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Bike\r\n
+comment1.params=num
+comment1.target=void\ setBikeNumber(int)
+comment1.text=\r\n\ metodos\ SET\ para\ configuracao\ dos\ atributos;\ \r\n
+comment2.params=
+comment2.target=int\ getBikeNumber()
+comment2.text=\r\nmetodos\ GET\ para\ acesso\ dos\ atributos;\ \r\n
+comment3.params=st
+comment3.target=void\ setBikeStation(char)
+comment3.text=\r\n\ metodos\ SET\ para\ configuracao\ dos\ atributos;\ \r\n
+comment4.params=
+comment4.target=char\ getBikeStation()
+comment4.text=\r\nmetodos\ GET\ para\ acesso\ dos\ atributos;\ \r\n
+comment5.params=station
+comment5.target=java.lang.String\ returnStationBike(char)
+comment5.text=\r\n\ M\u00E9todo\ que\ retorna\ o\ nome\ da\ esta\u00E7\u00E3o\ da\ bike.\r\n\ \r\n\ @return\ nome\ da\ esta\u00E7\u00E3o\ \r\n
+comment6.params=
+comment6.target=void\ exibeDados()
+comment6.text=\r\n\ M\u00E9todo\ exibeDados\ para\ apresentar\ os\ dados\ da\ classe\ Bike.\r\n\ \r\n
+numComments=7
