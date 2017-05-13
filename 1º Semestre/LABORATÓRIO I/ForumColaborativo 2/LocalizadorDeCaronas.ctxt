@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=emb\ des\ hor\ custo\ tam\ usaNet
+comment0.target=LocalizadorDeCaronas(java.lang.String,\ java.lang.String,\ double,\ double,\ double,\ boolean)
+comment1.params=
+comment1.target=void\ localizarCarona()
+numComments=2

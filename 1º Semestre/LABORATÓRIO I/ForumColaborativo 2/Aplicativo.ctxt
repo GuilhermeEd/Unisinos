@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=tam\ usaNet
+comment0.target=Aplicativo(double,\ boolean)
+comment1.params=
+comment1.target=void\ iniciaAplicativo()
+comment2.params=
+comment2.target=void\ finalizaAplicativo()
+numComments=3
