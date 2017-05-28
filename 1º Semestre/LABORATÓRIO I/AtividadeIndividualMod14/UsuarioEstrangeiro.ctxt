@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=em\ se\ no\ nu\ ling\ idi
+comment0.target=UsuarioEstrangeiro(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ char)
+comment0.text=I\ \u2013\ Ingl\u00EAs,\ E\ \u2013\ Espanhol,\ F\ \u2013\ Franc\u00EAs\ ou\ O\ \u2013\ Outro
+comment1.params=em\ se\ no\ nu
+comment1.target=UsuarioEstrangeiro(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getLinguaNativa()
+comment3.params=
+comment3.target=char\ getIdiomaPreferencial()
+comment4.params=ling
+comment4.target=void\ setLinguaNativa(java.lang.String)
+comment5.params=idi
+comment5.target=void\ setIdiomaPreferencial(char)
+comment6.params=
+comment6.target=void\ exibeDados()
+numComments=7

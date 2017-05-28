@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=em\ se\ no\ nu
+comment0.target=Usuario(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Crie\ um\ Construtor\ que\ receba\ como\ par\u00E2metro\ os\ valores\ dos\ atributos\:\r\n\ i.\ E-mail,\ Senha,\ Nome\ e\ N\u00FAmero\ do\ Celular.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getEmail()
+comment2.params=
+comment2.target=java.lang.String\ getSenha()
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=se
+comment4.target=void\ setSenha(java.lang.String)
+comment5.params=
+comment5.target=void\ adicionaNovoInteresse()
+comment6.params=
+comment6.target=void\ exibeDados()
+comment7.params=
+comment7.target=int\ getNumCelular()
+numComments=8

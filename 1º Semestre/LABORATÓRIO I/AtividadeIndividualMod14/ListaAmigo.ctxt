@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tam
+comment0.target=ListaAmigo(int)
+comment1.params=usr
+comment1.target=void\ adicionaAmigo(Usuario)
+comment2.params=
+comment2.target=void\ visualizaAmigos()
+comment3.params=numCelular
+comment3.target=Usuario[]\ pesquisaAmigoPorCelular(int)
+numComments=4
