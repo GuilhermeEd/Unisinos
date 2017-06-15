@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tamArray
+comment0.target=AlugaTudo(int)
+comment1.params=res
+comment1.target=void\ registraReserva(Reserva)
+comment2.params=
+comment2.target=void\ apresentaReservas()
+comment3.params=telefoneCliente
+comment3.target=void\ pesquisaImovelPorCliente(java.lang.String)
+numComments=4

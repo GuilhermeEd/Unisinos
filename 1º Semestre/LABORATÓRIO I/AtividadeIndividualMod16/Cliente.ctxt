@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=c\ n\ t
+comment0.target=Cliente(int,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cliente\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=
+comment2.target=java.lang.String\ getTelefone()
+comment3.params=
+comment3.target=void\ exibeDados()
+numComments=4

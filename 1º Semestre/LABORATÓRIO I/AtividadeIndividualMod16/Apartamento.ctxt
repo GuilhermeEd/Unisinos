@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=codigo\ descricao\ precoDiariaLocacao\ qtdMinDiasLocacao\ possuiElevador\ qtdQuartos
+comment0.target=Apartamento(int,\ java.lang.String,\ double,\ int,\ boolean,\ int)
+comment1.params=
+comment1.target=void\ exibeDados()
+numComments=2
