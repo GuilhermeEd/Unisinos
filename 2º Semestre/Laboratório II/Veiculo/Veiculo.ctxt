@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=incremento
+comment0.target=void\ acelera(int)
+comment1.params=decremento
+comment1.target=void\ freia(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
