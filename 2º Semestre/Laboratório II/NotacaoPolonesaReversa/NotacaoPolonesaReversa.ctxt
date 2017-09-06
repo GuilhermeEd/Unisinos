@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=float\ calc(java.lang.String)
+comment1.params=
+comment1.target=void\ add()
+comment2.params=
+comment2.target=void\ sub()
+comment3.params=
+comment3.target=void\ mult()
+comment4.params=
+comment4.target=void\ div()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
