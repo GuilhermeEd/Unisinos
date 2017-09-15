@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=CircularQueue(int)
+comment1.params=
+comment1.target=boolean\ isFull()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=o
+comment3.target=void\ enqueue(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ dequeue()
+comment5.params=
+comment5.target=void\ print()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
