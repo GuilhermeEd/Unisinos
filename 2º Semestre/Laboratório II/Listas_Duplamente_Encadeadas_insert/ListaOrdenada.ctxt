@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaOrdenada()
+comment1.params=listName
+comment1.target=ListaOrdenada(java.lang.String)
+comment2.params=s
+comment2.target=void\ insert(java.lang.String)
+comment3.params=
+comment3.target=void\ printAscending()
+comment4.params=
+comment4.target=void\ printDescending()
+numComments=5
