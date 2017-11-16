@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Object\ getKey()
+comment1.params=key
+comment1.target=GeneralTree(java.lang.Object)
+comment2.params=i
+comment2.target=GeneralTree\ getSubtree(int)
+comment3.params=t
+comment3.target=void\ attachSubtree(GeneralTree)
+comment4.params=t
+comment4.target=GeneralTree\ detachSubtree(GeneralTree)
+comment5.params=t
+comment5.target=int\ countNodes(GeneralTree)
+numComments=6
